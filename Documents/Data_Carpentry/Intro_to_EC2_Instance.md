@@ -5,6 +5,8 @@ Select ‘My Account/Console’ menu option ‘AWS Management Console.”
 ![AWS Login Image](https://github.com/KWHall/DataCarpentry/raw/master/Pictures/AWS_Login.png)
 Log in with your username & password. If you are new to _Amazon_ then select **'I am a new user.'** and create an account (NOTE: You do need a credit card, but there is a free tier of usage). 
 * * *
+Select **US East (N. Virginia)** (to the right of your name on the upper left)
+
 Click on **EC2** (towards the upper left of the page).
 
 ![EC2 Instance](https://github.com/KWHall/DataCarpentry/raw/master/Pictures/EC2_Services.png)
